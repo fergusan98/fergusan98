@@ -2,20 +2,9 @@
 
 <!--
 **fergusan98/fergusan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-Soy estudiante de la licenciatura de Ingeniería en ciencias de la computación, formando en la Benemérita Universidad Autónoma de Puebla. Apasionado del desarrollo de sofware
+Soy estudiante de la licenciatura de Ingeniería en ciencias de la computación, formado en la Benemérita Universidad Autónoma de Puebla. Apasionado del desarrollo de sofware
 
 ### Lo que manejo:
 - Lenguajes: C, Python, JavaScrip y más especializado en Java
@@ -27,3 +16,7 @@ Soy estudiante de la licenciatura de Ingeniería en ciencias de la computación,
 - Tengo facilidad para aprender nuevas tecnologías que se requieran para cualquier tarea
 - Me gusta todo lo que tenga que ver con ciencias y técnologia
 - Apasionado de la música, los videojuegos y las series
+
+### Contacto
+- Correo Institucional: fernando.gutierrezsa@alumno.buap.mx
+- Correo Personal: fernando.gutierrez.santos.buap@gmail.com
