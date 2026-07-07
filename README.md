@@ -1,8 +1,6 @@
 ## ¡Hola! mi nombre es Fernando Gutiérrez Santos👋
 
-<!--
-**fergusan98/fergusan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 Soy estudiante de la licenciatura de Ingeniería en ciencias de la computación, formado en la Benemérita Universidad Autónoma de Puebla. Apasionado del desarrollo de sofware
 
@@ -18,5 +16,6 @@ Soy estudiante de la licenciatura de Ingeniería en ciencias de la computación,
 - Apasionado de la música, los videojuegos y las series
 
 ### Contacto
+Puedes contactarme en cualquier hora del día
 - Correo Institucional: fernando.gutierrezsa@alumno.buap.mx
 - Correo Personal: fernando.gutierrez.santos.buap@gmail.com
