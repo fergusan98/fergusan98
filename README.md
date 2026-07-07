@@ -31,6 +31,7 @@ Soy estudiante del último semestre de la licenciatura en **Ingeniería en Cienc
   <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/GLM--5.2-FF6B6B?style=for-the-badge" alt="GLM-5.2">
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity">
+  <img src="https://img.shields.io/badge/Open%20Code-10B981?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Code">
 </p>
 
 ---
