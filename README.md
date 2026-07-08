@@ -65,3 +65,10 @@ Desarrollé **desde cero y sin librerías externas** un analizador léxico y sin
 <a href="mailto:fernando.gutierrez.santos.buap@gmail.com">
   <img src="https://img.shields.io/badge/Correo%20Personal-fernando.gutierrez.santos.buap%40gmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Personal">
 </a>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+
+
+
